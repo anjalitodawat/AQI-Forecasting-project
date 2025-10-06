@@ -12,3 +12,5 @@ The dataset has been sourced from [Kaggle](https://www.kaggle.com/datasets/rohan
 Exploratory Data Analysis (EDA) is a crucial step in understanding any dataset.  
 It helps uncover trends and patterns, identify key features, and reveal which pollutants contribute most to the Air Quality Index (AQI) in different regions.  
 By performing EDA, we gain actionable insights that guide further analysis and decision-making.
+
+## Map of the Project
