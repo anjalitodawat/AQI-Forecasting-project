@@ -14,3 +14,7 @@ It helps uncover trends and patterns, identify key features, and reveal which po
 By performing EDA, we gain actionable insights that guide further analysis and decision-making.
 
 ## Map of the Project
+1) The city_day.csv file contains the dataset used for this Exploratory Data Anaysis.
+2) The Data_preprocesing.ipynb contains the initial importing and pre-processing of the data.
+3) The processed_data.csv contains the pre-processed dataset which is used for further Analysis.
+4) The EDA_AQI.ipynb file contains the Statistical Analysis and Visualization of the data.
